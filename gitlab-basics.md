@@ -190,7 +190,7 @@ Total 5 (delta 1), reused 0 (delta 0), pack-reused 0
 To csegitlab.engineering.unt.edu:mc1862/demo.git
    106f816..d37a632  master -> master
 ```
-![alt text](<Screenshot git push.png>)
+![alt text](<images/Screenshot git push.png>)
 
 ### 7.2 Create and Switch to a Branch
 ```bash
